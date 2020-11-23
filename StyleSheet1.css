@@ -1,7 +1,17 @@
 ﻿body
 {
-    
+
 }
-h1{
+h1 {
     text-align: center;
+    text-decoration: underline;
+}
+h4 {
+    text-align: center;
+}
+p{
+    font-size: 30px; padding: 4%;
+}
+img{
+    padding: 2%;
 }
