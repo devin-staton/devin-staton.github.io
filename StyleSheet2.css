@@ -14,7 +14,7 @@ img{
     display: block; margin-left: auto; margin-right: auto;
 }
 .nav {
-    background-color: black;
+    background-color: darkred;
     font-size: 20px;
     padding: 2%;
 }
