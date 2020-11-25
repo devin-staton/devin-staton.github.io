@@ -1,0 +1,46 @@
+﻿body
+{
+    background-color: mediumpurple; color:white;
+}
+h1 {
+    text-align: center;
+}
+
+h2 
+{
+    text-align: center; color:mediumpurple; background-color: white; border-radius: 5px; padding: 5%;
+}
+p
+{
+    text-align: center;
+}
+.container 
+{
+    width: 30%;
+    float: left;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.nav {
+    background-color: purple;
+    font-size: 20px;
+    padding: 2%;
+}
+
+.nav a {
+    color: white;
+    text-align: center;
+    padding: 2%
+}
+
+.nav a:hover {
+    background-color: silver;
+    color: white;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
